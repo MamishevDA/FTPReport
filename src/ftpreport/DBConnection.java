@@ -23,8 +23,8 @@ public class DBConnection {
 //    private static String sUsr = "sysadm";
 //    private static String sPwd = "sysadm";
 //    private static String url = "jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521)) (CONNECT_DATA =  (SERVER = DEDICATED) (SERVICE_NAME = XE)))";
-    private static String sUsr = "";
-    private static String sPwd = "";
+    private static String sUsr = "123123123";
+    private static String sPwd = "123123123";
     private static String url = "jdbc:oracle:thin:@(DESCRIPTION =\n"
             + "    (ADDRESS = (PROTOCOL = TCP)(HOST = 123123123)(PORT = 1521))\n"
             + "    (ADDRESS = (PROTOCOL = TCP)(HOST = 123123123)(PORT = 1521))\n"
